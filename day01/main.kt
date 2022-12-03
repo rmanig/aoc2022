@@ -1,7 +1,8 @@
 import java.io.BufferedReader
+import java.io.File
 
 fun main() {
-    val inputStream = object {}.javaClass.getResourceAsStream("day01/input.txt")!!
+    val inputStream = File("input.txt")
     val lines = inputStream.bufferedReader().use(BufferedReader::readText)
     val caloriesByElves = lines.split("\n\n")
             .map { line -> line.split("\n")
