@@ -7,4 +7,5 @@ A different day, a different language. Mostly just tampering.
 3. Objective-C
 4. C++
 5. Go
-6. (My)SQL
+6. SQL
+7. Groovy (trees & recursion, yay!)
