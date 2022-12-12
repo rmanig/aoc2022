@@ -9,3 +9,5 @@ A different day, a different language. Mostly just tampering.
 5. Go
 6. SQL
 7. Groovy (trees & recursion, yay!)
+8. Scala
+9. Python
