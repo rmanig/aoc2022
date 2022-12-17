@@ -11,3 +11,5 @@ A different day, a different language. Mostly just tampering.
 7. Groovy (trees & recursion, yay!)
 8. Scala
 9. Python
+10. Ruby
+11. Perl
